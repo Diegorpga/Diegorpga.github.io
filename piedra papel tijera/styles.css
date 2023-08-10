@@ -1,0 +1,85 @@
+
+header{
+    background-color: black;
+    color: greenyellow;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Wonder Boy In Monster World', sans-serif;
+
+}
+
+body{
+    background-color: black;
+}
+
+
+.cancha{
+    border: 5px solid greenyellow;
+    margin: 100px;
+}
+
+.texto{
+    color:greenyellow;
+    
+
+}
+
+h1{
+    font-family: 'Wonder Boy In Monster World', sans-serif;
+text-align: center;
+font-size: 50px;
+}
+
+.btn1{
+    font-family: 'Wonder Boy In Monster World', sans-serif;
+    background-color: greenyellow;
+    font-size: 35px;
+    position: absolute;
+    right: 700px;
+    bottom: 300px;
+    cursor: pointer;
+    border-radius: 40px;
+}
+
+
+.btn2{
+    font-family: 'Wonder Boy In Monster World', sans-serif;
+    background-color: greenyellow;
+    font-size: 35px;
+    position: absolute;
+    right: 1100px;
+    bottom: 300px;
+    cursor: pointer;
+    border-radius: 40px;
+}
+.btn3{
+    font-family: 'Wonder Boy In Monster World', sans-serif;
+    background-color: greenyellow;
+    font-size: 35px;
+    position: absolute;
+    right: 900px;
+    bottom: 300px;
+    cursor: pointer;
+    border-radius: 40px;
+}
+
+#img1{
+    position: absolute;
+    background-color: greenyellow;
+   left: 720px;
+   top: 370px;
+   width: 80px;
+   height: 70px;
+   border-radius: 20px;
+
+}
+#img2{
+    position: absolute;
+    background-color: greenyellow;
+   left: 720px;
+   top: 280px;
+   width: 80px;
+   height: 70px;
+   border-radius: 20px;
+
+}
